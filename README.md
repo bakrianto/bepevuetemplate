@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bambangapp
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# bepevuetemplate
+template vuejs
+>>>>>>> 2faffd78022a03623a9432c4203f676ab8c73992
